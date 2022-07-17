@@ -1,0 +1,43 @@
+h1{
+  margin-top: 20px;
+}
+.song{
+  color: #441463;
+  margin-top: 80px;
+  margin-right: 25px;
+  border: 3px solid #441463 ;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.deer{
+  margin: 5px;
+  margin-top: 20px;
+  margin-left: 25px;
+}
+#heading{
+  color: #441463;
+  border: 2px solid black;
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+#downtext{
+  text-align: right;
+  margin-right: 63px;
+  color: #441463;
+}
+#ttt{
+  color: white;
+  margin: 5px;
+  margin-left: 5px;
+}
+#ttz{
+  background: #441463;
+}
+#end{
+  margin-top: 150px;
+  text-align: center;
+  background: #137f87;
+
+}
